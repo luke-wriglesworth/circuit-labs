@@ -1,0 +1,13 @@
+# dx is change in time recorded in ms
+# dy is electric potential difference recorded in V
+# 0.10 uF capacitor 27 k0Ohm resistor
+dx,dy
+6.24,4.40625
+5.740,3.59375
+5.120,2.65625
+3.47897,1.85525
+2.65897,1.23025
+2.11897,0.875
+1.558970,0.59375
+0.63897,0.28125
+0.25897,0.125
